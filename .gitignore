@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+dataset/
+images/
+*.zip
+
+# Models (optional – keep only final ones)
+# *.h5
+
+# Environment
+.env
+venv/
