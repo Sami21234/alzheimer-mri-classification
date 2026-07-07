@@ -6,6 +6,9 @@ An AI-powered medical imaging system to detect Alzheimer's disease stages from b
 
 ## 🚀 Project Overview
 
+<img width="1918" height="912" alt="mri_ss1" src="https://github.com/user-attachments/assets/82c80e3e-676c-4168-8011-4627e8918717" />
+
+
 This project classifies brain MRI images into four categories:
 - Mild Dementia
 - Moderate Dementia
